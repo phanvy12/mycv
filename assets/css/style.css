@@ -26,7 +26,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1.625;
 	font-size: 16px;
-	color: #167d74;
+	color: #1f2581;
 	font-family: 'Roboto Slab', serif;
 	-webkit-font-smoothing: antialiased;
 }
@@ -75,7 +75,7 @@ p {
 }
 .sidebar {
 	width: 35%;
-	background: #3feabf;
+	background: #28ddcb;
 	color: rgb(40, 21, 21);
 }
 .content {
@@ -87,11 +87,11 @@ p {
 .avatar {
 	text-align: center;
 	padding: 60px 0;
-	background: #8df7d6;
+	background: #42f8a9;
 }
 .avatar img {
 	border-radius: 50%;
-	border: 5px solid rgba(246, 211, 232, 0.66);
+	border: 5px solid rgb(164, 253, 109);
 }
 .avatar h1 {
 	font-size: 32px;
@@ -120,7 +120,7 @@ p {
 }
 .module__meta {
 	font-size: 14px;
-	color: #90a4ae;
+	color: #ffffff;
 	margin-bottom: 20px;
 }
 .module__meta i {
@@ -164,7 +164,7 @@ p {
 .progress-bar,
 .progress-bar span {
 	height: 6px;
-	background: rgb(239, 188, 188);
+	background: rgb(255, 255, 255);
 	border-radius: 6px;
 	display: block;
 }
